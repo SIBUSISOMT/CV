@@ -24,7 +24,9 @@ body{
    grid-column: span 2;
    height: 100%;
    background-color: #00324A; 
-   
+
+
+
 
 }
 .right-section{
@@ -37,7 +39,7 @@ body{
    background-color: #94D9EA;
 }
 .left-content{
-   padding: 1rem 3rem;
+   padding: 2rem 3rem;
 }
 
 .profile{
@@ -88,6 +90,7 @@ color: white;
    color: #2D9CDB;
 
 }
+
 .skills-section ul li{
    display: flex;
    justify-content: space-between;
@@ -177,15 +180,22 @@ color: white;
  .awards{
    color: #2f80ed;
  }
- .hospital{
-padding-top: 1rem 0;
+ .about-me{
+  background-color: #b9ccee;
+  font-size: 15px;
+  
+
  }
 
-.rage{
-padding-top: 1rem 0;
+ .period{
+  font-size: 5 !important;
 }
-
-
+.topic{
+   font-size: 18px;
+}
+.paragraph{
+   font-size: 15px;
+}
 
 
 
