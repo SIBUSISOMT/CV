@@ -196,6 +196,15 @@ color: white;
 .paragraph{
    font-size: 15px;
 }
+.display{ 
+   
+   font-size: 15px;
+   padding: right 30px;
+   padding: left 0.5px;
+   color: #718096;
+   text-decoration-line: none;
+
+}
 
 
 
